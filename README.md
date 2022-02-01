@@ -9,7 +9,7 @@ _Sign-up group website project_
 
 This project is for educational porpuses only. 
 
-Site published at https://foksen1.github.io/3-mergaite/  
+Site published at https://foksen1.github.io/4-sign-up/ 
 
 Design: [Sign-up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 

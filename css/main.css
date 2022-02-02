@@ -1,20 +1,34 @@
 body {
+    background-color: #01ACC6;
 }
 
 .container {
     display: inline-block;
     width: 800px;
+    margin-top: 150px;
+    margin-left: calc(50% - 400px);
 }
 
-.left-column {
-    
+.left-column { 
     width: 40%;
     float: left;
-    background-color: yellow;
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: #4E4CAC;
+    color: #fff;
+}
+
+h1 {
+
+}
+
+a{
+    color: #fff;
 }
 
 .right-column {
     float: left;
     width: 60%;
-    background-color: violet;
+    padding: 60px;
+    background-color: #fff;
 }

@@ -19,7 +19,6 @@ body {
 }
 
 h1 {
-
 }
 
 a{
@@ -32,3 +31,38 @@ a{
     padding: 60px;
     background-color: #fff;
 }
+
+/* SPALVOS
+
+Juoda -  pikseliai nešviečia (0% intensyvumo)
+balta -  pikseliai šviečia visi ir maximaliai intensyviai (100% intensyvumo)
+
+rgb(0, 0, 0) Juoda
+#000000 (6 nuliukai)
+
+#0000 (4 nuliukai)
+#000  (3 nuliukai)
+rgba (0, 0, 0, 1)
+#00000000 (8 nuliukai)
+
+rgb(255, 255, 255) Balta
+#ffffff (6 f)
+
+#ffff   (4 nuliukai)
+#fff (3 nuliukai)
+rba (255, 255, 255, 1)
+#ffffffff (8 nuliukai)
+
+Oranzine
+rgb(255, 102, 0)
+#ff6600
+#f60
+
+#ff6600ff
+rgba(255, 102, 0, 1)
+#f60f
+
+#aacc87 - negalimas sutrumpinti, nes visos nariu poros nera is pasikartojanciu simboliu ( bent viena pora nesikartoja ir yra nesuturmpinamas reiskinys
+
+
+*/

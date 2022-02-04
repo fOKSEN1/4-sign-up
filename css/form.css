@@ -31,6 +31,10 @@ form > .form-row > input{
     border-bottom: 2px solid #BFBFBF;
 }
 
+form > .form-row > input:focus-visible {
+    outline: 2px solid #777;
+}
+
 form > .form-row > button {
     font-size: 20px;
     line-height: 26px;
@@ -49,6 +53,14 @@ background: linear-gradient(
      ;
     border: none;
 }
+form > .form-row > button:hover{
+    cursor:pointer;background: #2348d4;
+    background: linear-gradient(
+        43deg, 
+        rgba(151,72,212,1) 0%,
+         rgba(2,101,252,1) 100%)
+         ;
+}
 
 form > .form-row > span {
     display: inline-block;
@@ -66,4 +78,8 @@ form > .form-row > a {
     font-weight: bold;
     font-size: 17px;
     color: #2348d4;
+}
+
+form > .form-row > a:hover {
+text-decoration: underline;
 }

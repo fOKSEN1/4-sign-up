@@ -16,7 +16,7 @@ form > .form-row:first-of-type {
 form > .form-row >label {
     display: inline-block;
     width: 100%;
-    font-size: 17px;
+    font-size: 15px;
     color: #777;
     margin-bottom: 5px;
     text-transform: uppercase;
@@ -39,7 +39,7 @@ form > .form-row > button {
     padding: 5px;
     padding-left: 30px;
     padding-right: 30px;
-    border-radius: 20px;
+    border-radius: 18px;
     color: #fff;
     background: #2348d4;
 background: linear-gradient(
@@ -51,7 +51,19 @@ background: linear-gradient(
 }
 
 form > .form-row > span {
+    display: inline-block;
+    line-height: 26px;
+    padding: 5px;
+    margin-left: 5px;
+    color: #2348d4;
 }
 
 form > .form-row > a {
+    display: inline-block;
+    line-height: 26px;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+    color: #2348d4;
 }

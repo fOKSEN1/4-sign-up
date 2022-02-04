@@ -19,10 +19,13 @@ body {
 }
 
 h1 {
+}
+
+.bottom-texts{
 
 }
 
-a{
+.bottom-texts > a{
     color: #fff;
 }
 
@@ -32,3 +35,6 @@ a{
     padding: 60px;
     background-color: #fff;
 }
+
+   .close {
+   }
